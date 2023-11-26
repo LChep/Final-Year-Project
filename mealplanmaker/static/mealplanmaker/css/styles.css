@@ -1,0 +1,9 @@
+.body{
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+}
+.nav-item{
+    color: black;
+    font-size: 16px;
+    margin-right: 10px;
+}
